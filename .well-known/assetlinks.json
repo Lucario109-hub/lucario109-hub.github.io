@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lucario109hub.lucarionet",
+        "sha256_cert_fingerprints": ["E7:23:09:46:6A:B0:EF:40:D9:3E:BD:B0:2A:1F:FA:E6:B4:53:97:C7:6C:AB:4A:38:DE:03:91:D9:0E:1D:2D:16"]
+      }
+    }]
